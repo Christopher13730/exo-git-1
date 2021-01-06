@@ -7,3 +7,8 @@ header a{
 header{
   background-color: yellow;
 }
+
+header img{
+  height: 50px;
+  width: 50px;
+}
